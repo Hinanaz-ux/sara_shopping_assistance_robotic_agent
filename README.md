@@ -4,3 +4,4 @@ Each category of item is represented using an Aruco marker, the robot only stops
 Object detection is also used to detect the item , only when an item is detected the pick up sequence will be initiated.
 
 i have uploaded 3 files , the arduino file contains the arduino code to control the movement of the robot , the pythoncode file contains the python code to manage the whole operation and the ui file contains a small gui code to select and sent the items to the robot.
+**Contributors:** Afreen Mullath Afsar, Ashna Boby, Hina Naz Shabi
